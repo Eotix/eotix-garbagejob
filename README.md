@@ -1,8 +1,6 @@
-# eotix-garbagejob
+# [ESX] Generation Roleplay Style Garbage Job
 # Да има тука да си гризнете
 This is an edited version of a leaked NoPixel 2.0 Garbage Job :)
-
-[ESX] Generation Roleplay Style Garbage Job
 
 ## Dependencies:
 - [nh-context](https://github.com/nighmares/nh-context)
